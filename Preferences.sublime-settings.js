@@ -1,0 +1,37 @@
+{
+	"auto_close_tags": false,
+	"auto_complete": false,
+	"auto_indent": false,
+	"caret_style": "solid",
+	"color_scheme": "Packages/User/Oceanic Next.tmTheme",
+	"draw_indent_guides": false,
+	"draw_white_space": "all",
+	"ensure_newline_at_eof_on_save": true,
+	"fold_buttons": false,
+	"font_face": "Monaco",
+	"font_options":
+	[
+		"no_italic",
+		"no_bold"
+	],
+	"font_size": 18,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"index_files": false,
+	"line_padding_bottom": -3,
+	"mini_diff": false,
+	"rulers":
+	[
+		60,
+		80,
+		100
+	],
+	"scroll_past_end": true,
+	"tab_size": 2,
+	"theme": "Adaptive.sublime-theme",
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": "true",
+	"wrap_width": 9999
+}
