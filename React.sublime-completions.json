@@ -11,6 +11,6 @@
 		{
 			"trigger": "rxi",
 			"contents": "import React from \"react\""
-		},
+		}
 	]
 }
