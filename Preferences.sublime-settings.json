@@ -12,7 +12,8 @@
 	"font_options":
 	[
 		"no_italic",
-		"no_bold"
+		"no_bold",
+		"gray_antialias"
 	],
 	"font_size": 18,
 	"ignored_packages":
@@ -20,7 +21,6 @@
 		"Vintage"
 	],
 	"index_files": false,
-	"line_padding_bottom": -3,
 	"mini_diff": false,
 	"rulers":
 	[
