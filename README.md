@@ -4,7 +4,7 @@ Miscellaneous dot files (hidden files) I use for development. 🤗
 
 ## License
 
-dot-files is open source software licensed as MIT.
+Open source software licensed as MIT.
 
 ---
 
