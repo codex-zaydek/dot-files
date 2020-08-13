@@ -1,6 +1,6 @@
 # dot-files
 
-Miscellaneous dot files I use for development. 🤗
+Miscellaneous dot files (hidden files) I use for development. 🤗
 
 ## License
 
